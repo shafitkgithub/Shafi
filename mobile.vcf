@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 17.5.1//EN
-N:Muhammed Shafi;;;
-FN: Muhammed Shafi 
+N:Shafi;Muhammed;;;
+FN:Muhammed Shafi 
 ORG:AIRBUS;
 TITLE:Technical Manager Backoffice Systems
 EMAIL;type=INTERNET;type=WORK;type=pref: muhammed.shafi@airbus.com
